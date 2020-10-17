@@ -1,0 +1,9 @@
+Make sure nodeJS is install
+
+Using command prompt cd to teamProject and run the following commands
+
+npm install
+npm install firebase
+npm install recompose
+
+npm start
